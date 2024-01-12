@@ -1,0 +1,70 @@
+body{
+    background-image: url(background.jpg);
+    background-size:cover;
+}
+
+.box{
+    width: 1000px;
+    margin: auto;
+    background: hsla(0, 0%, 4%, 0.702);
+    color:#090909;
+    border-radius: 12px; 
+    padding: 60px;
+}
+
+.logo{
+    width: 200px;
+    margin-left: 400px;
+}
+
+.logo-text{
+    color: hsl(115, 93%, 43%);
+    margin-left: 300px;
+}
+
+.navigazione{
+    background-color: hsl(115, 93%, 43%);
+    text-align: center;
+    padding: 14px 16px;
+    margin-bottom: 30px;
+}
+
+.monopattino-testo{
+    color: white;
+}
+
+h2,h3{
+    margin: 0;
+}
+
+#starred{
+    display: inline-block;
+}
+
+.carica-gino{
+    background-color: hwb(41 3% 17%);
+    height: 20px;
+    width:200px;
+    margin-left: 5px;
+    padding: 1px;
+    border-radius:5px; 
+    margin-bottom: 30px;
+}
+.carica-mike{
+    background-color: rgb(8, 212, 42);
+    height: 20px;
+    width:400px;
+    margin-left: 5px;
+    padding: 1px;
+    border-radius:5px; 
+    margin-bottom: 30px;
+}
+.carica-fede{
+    background-color: rgb(212, 35, 8);
+    height: 20px;
+    width:50px;
+    margin-left: 5px;
+    padding: 1px;
+    border-radius:5px; 
+    margin-bottom: 30px;
+}
